@@ -4,7 +4,7 @@ import Counter from "./Counter";
 export default function Home() {
   return (
     <div>
-      <div>Page TSX</div>
+      <div>HOME PAGE</div>
       <Counter/>
     </div>
   );
